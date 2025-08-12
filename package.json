@@ -1,6 +1,6 @@
 {
   "name": "blog-final-test-all-fixes-applied",
-  "version": "1.0.0",
+  "version": "1.0.2715",
   "private": true,
   "scripts": {
     "dev": "next dev",
